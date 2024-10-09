@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "332485863487",
+    "project_id": "text-reco-ba492",
+    "storage_bucket": "text-reco-ba492.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332485863487:android:568aa071ec7033857b308a",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUpTnwx_5k9haQSTDlG_v6W6N-8u4WeqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332485863487:android:5b7eee7dae56ec1b7b308a",
+        "android_client_info": {
+          "package_name": "com.example.flutter_ml_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUpTnwx_5k9haQSTDlG_v6W6N-8u4WeqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
