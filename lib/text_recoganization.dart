@@ -109,6 +109,13 @@ class _TextRecognitionScreenState extends State<TextRecognitionScreen> {
             ),
             const SizedBox(height: 16),
             Text(
+              _recognizedText.isEmpty ? 'No text recognized' : 'Recognized Text:',
+              style: const TextStyle(
+                fontSize: 18,
+                fontWeight: FontWeight.bold,
+              ),
+            ),
+            Text(
               _recognizedText.isEmpty ? 'Recognized text will appear here' : _recognizedText,
               style: const TextStyle(fontSize: 16),
             ),
